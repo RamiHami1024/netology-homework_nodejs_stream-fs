@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RamiHami1024/netology-homework_nodejs_stream-fs/issues"
   },
-  "homepage": "https://github.com/RamiHami1024/netology-homework_nodejs_stream-fs#readme"
+  "homepage": "https://github.com/RamiHami1024/netology-homework_nodejs_stream-fs#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
 }
